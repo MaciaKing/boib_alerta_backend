@@ -1,4 +1,7 @@
 import requests
+from app.models.organismo import Organismo
+from app.models.convocatoria import Convocatoria
+from app.database.database import SessionLocal
 from bs4 import BeautifulSoup
 import re
 
@@ -57,13 +60,33 @@ if titulo_objetivo:
         elementos_li = lista_ul.find_all('li', recursive=False)
         print(f"Se han encontrado {len(elementos_li)} elementos.\n")
         
+        db = SessionLocal()
 
         for li in elementos_li:
             organisme = li.find('h3', class_='organisme').get_text(strip=True)
             text_descriptiu = li.find_next('p')
             print(f"Organismo: {organisme}")
             print(f"Texto: {text_descriptiu.text}")
-            #pdb.set_trace()
+
+            # Search if de organism exist
+            organismo_db = db.query(Organismo).filter(
+                Organismo.nombre == organisme
+            ).first()
+
+            # if not exist
+            if organismo_db is None:
+                organismo_db = Organismo(
+                nombre=organisme
+            )
+            db.add(organismo_db)
+            db.flush()
+
+            new_convocatioria = Convocatoria(
+                organismo_id = organismo_db.id,
+                descripcion = text_descriptiu.text
+            )
+            db.add(new_convocatioria)
+            db.commit()
             print()
             
     else:
