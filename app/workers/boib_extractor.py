@@ -65,6 +65,13 @@ if titulo_objetivo:
         for li in elementos_li:
             organisme = li.find('h3', class_='organisme').get_text(strip=True)
             text_descriptiu = li.find_next('p')
+            html_link = li.find(
+                 'a',
+                 class_='html',
+                 string=lambda text: text and 'Versió HTML' in text
+                 )
+            url = html_link['href'] if html_link else None
+
             print(f"Organismo: {organisme}")
             print(f"Texto: {text_descriptiu.text}")
 
@@ -83,7 +90,8 @@ if titulo_objetivo:
 
             new_convocatioria = Convocatoria(
                 organismo_id = organismo_db.id,
-                descripcion = text_descriptiu.text
+                descripcion = text_descriptiu.text,
+                url=url
             )
             db.add(new_convocatioria)
             db.commit()
