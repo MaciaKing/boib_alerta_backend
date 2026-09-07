@@ -7,7 +7,7 @@ from app.database.database import Base
 
 
 class Convocatoria(Base):
-    __tablename__ = "convocatoria"
+    __tablename__ = "convocatorias"
 
     id: Mapped[int] = mapped_column(
         primary_key=True
