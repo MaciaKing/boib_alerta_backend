@@ -8,11 +8,13 @@ from app.models.user import User
 from .security import get_current_user
 from .users import users
 from .education import education
+from .convocatoria import convocatoria
 
 app = FastAPI()
 
 app.include_router(users)
 app.include_router(education)
+app.include_router(convocatoria)
 
 @app.get("/items/")
 def read_items(

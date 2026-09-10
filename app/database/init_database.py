@@ -6,8 +6,6 @@ from app.models.user import User
 from app.models.user_education_association import UserEducationAssociation
 from app.api.security import get_password_hash
 from sqlalchemy import select
-import pdb
-
 
 Base.metadata.create_all(bind=engine)
 db = SessionLocal()
@@ -70,8 +68,6 @@ try:
     
     db.add(uea)
     db.commit()
-    
-    pdb.set_trace()
 
 except Exception as e:
     db.rollback()

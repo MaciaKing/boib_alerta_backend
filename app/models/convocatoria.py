@@ -1,8 +1,8 @@
 from datetime import datetime
 
 from sqlalchemy import DateTime, String, Text, ForeignKey
-from sqlalchemy.orm import Mapped, mapped_column
-
+from sqlalchemy.orm import Mapped, mapped_column, relationship
+import json
 from app.database.database import Base
 
 
@@ -28,3 +28,23 @@ class Convocatoria(Base):
         unique=True,
         nullable=True,
     )
+    
+    organismo: Mapped["Organismo"] = relationship("Organismo", back_populates="convocatorias")
+        
+    def to_dict(self, show_organisme_id=False):
+        if show_organisme_id:
+           return {
+                "id": self.id,
+                "descripcion": self.descripcion,
+                 "organismo_id": self.organismo_id,
+                "url": self.url
+            }
+        else: 
+            return {
+                "id": self.id,
+                "descripcion": self.descripcion,
+                "url": self.url
+            }
+        
+    def to_json(self):
+        return json.dumps(self.to_dict())

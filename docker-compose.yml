@@ -10,7 +10,7 @@ services:
       - .:/app
     env_file:
       - .env
-    #command: "uvicorn app.main.api:api --host 0.0.0.0 --port 8000 --reload"
+    #command: "uvicorn app.api.api:app --host 0.0.0.0 --port 8000 --reload"
     command: "tail -f /dev/null"
     restart: unless-stopped
 
