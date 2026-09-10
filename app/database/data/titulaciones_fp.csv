@@ -1,0 +1,138 @@
+ID;familia_profesional;nivel;nombre_oficial
+1;Actividades Físicas y Deportivas;Grado Medio;Técnico en Conducción de Actividades Físico-Deportivas en el Medio Natural
+2;Actividades Físicas y Deportivas;Grado Medio;Técnico en Guía en el Medio Natural y de Tiempo Libre
+3;Actividades Físicas y Deportivas;Grado Superior;Técnico Superior en Enseñanza y Animación Sociodeportiva
+4;Actividades Físicas y Deportivas;Grado Superior;Técnico Superior en Acondicionamiento Físico
+5;Administración y Gestión;Grado Medio;Técnico en Gestión Administrativa
+6;Administración y Gestión;Grado Superior;Técnico Superior en Administración y Finanzas
+7;Administración y Gestión;Grado Superior;Técnico Superior en Asistencia a la Dirección
+8;Agraria;Grado Medio;Técnico en Actividades Ecuestres
+9;Agraria;Grado Medio;Técnico en Jardinería y Floristería
+10;Agraria;Grado Medio;Técnico en Producción Agroecológica
+11;Agraria;Grado Medio;Técnico en Producción Agropecuaria
+12;Agraria;Grado Medio;Técnico en Trabajos Forestales y Conservación del Medio Natural
+13;Agraria;Grado Superior;Técnico Superior en Ganadería y Asistencia en Sanidad Animal
+14;Agraria;Grado Superior;Técnico Superior en Gestión Forestal y del Medio Natural
+15;Agraria;Grado Superior;Técnico Superior en Paisajismo y Ruralismo
+16;Artes Gráficas;Grado Medio;Técnico en Impresión Gráfica
+17;Artes Gráficas;Grado Medio;Técnico en Postimpresión y Manipulados de Papel y Cartón
+18;Artes Gráficas;Grado Medio;Técnico en Preimpresión Digital
+19;Artes Gráficas;Grado Superior;Técnico Superior en Diseño y Edición de Publicaciones Impresas y Multimedia
+20;Artes Gráficas;Grado Superior;Técnico Superior en Diseño y Gestión de la Producción Gráfica
+21;Artes y Artesanías;Grado Medio;Técnico en Talleres de Arte y Artesanía
+22;Artes y Artesanías;Grado Superior;Técnico Superior en Artista Fallero y Escenografía
+23;Comercio y Marketing;Grado Medio;Técnico en Comercialización de Productos Alimentarios
+24;Comercio y Marketing;Grado Medio;Técnico en Actividades Comerciales
+25;Comercio y Marketing;Grado Superior;Técnico Superior en Comercio Internacional
+26;Comercio y Marketing;Grado Superior;Técnico Superior en Gestión de Ventas y Espacios Comerciales
+27;Comercio y Marketing;Grado Superior;Técnico Superior en Marketing y Publicidad
+28;Comercio y Marketing;Grado Superior;Técnico Superior en Transporte y Logística
+29;Edificación y Obra Civil;Grado Medio;Técnico en Construcción
+30;Edificación y Obra Civil;Grado Medio;Técnico en Obras de Interior, Decoración y Rehabilitación
+31;Edificación y Obra Civil;Grado Superior;Técnico Superior en Operaciones de Hormigón
+32;Edificación y Obra Civil;Grado Superior;Técnico Superior en Proyecto de Edificación
+33;Edificación y Obra Civil;Grado Superior;Técnico Superior en Proyectos de Obra Civil
+34;Electricidad y Electrónica;Grado Medio;Técnico en Instalaciones Eléctricas y Automáticas
+35;Electricidad y Electrónica;Grado Medio;Técnico en Instalaciones de Telecomunicaciones
+36;Electricidad y Electrónica;Grado Superior;Técnico Superior en Automatización y Robótica Industrial
+37;Electricidad y Electrónica;Grado Superior;Técnico Superior en Electromedicina Clínica
+38;Electricidad y Electrónica;Grado Superior;Técnico Superior en Mantenimiento Electrónico
+39;Electricidad y Electrónica;Grado Superior;Técnico Superior en Sistemas Electrotécnicos y Automatizados
+40;Electricidad y Electrónica;Grado Superior;Técnico Superior en Sistemas de Telecomunicaciones e Informáticos
+41;Energía y Agua;Grado Medio;Técnico en Redes y Estaciones de Tratamiento de Aguas
+42;Energía y Agua;Grado Superior;Técnico Superior en Centrales Eléctricas
+43;Energía y Agua;Grado Superior;Técnico Superior en Eficiencia Energética y Energía Solar Térmica
+44;Energía y Agua;Grado Superior;Técnico Superior en Energías Renovables
+45;Energía y Agua;Grado Superior;Técnico Superior en Gestión del Agua
+46;Fabricación Mecánica;Grado Medio;Técnico en Conformado por Moldeo y Soldadura
+47;Fabricación Mecánica;Grado Medio;Técnico en Mecanizado
+48;Fabricación Mecánica;Grado Medio;Técnico en Soldadura y Calderería
+49;Fabricación Mecánica;Grado Superior;Técnico Superior en Construcciones Metálicas
+50;Fabricación Mecánica;Grado Superior;Técnico Superior en Diseño en Fabricación Mecánica
+51;Fabricación Mecánica;Grado Superior;Técnico Superior en Programación de la Producción en Fabricación Mecánica
+52;Hostelería y Turismo;Grado Medio;Técnico en Cocina y Gastronomía
+53;Hostelería y Turismo;Grado Medio;Técnico en Servicios de Restauración
+54;Hostelería y Turismo;Grado Superior;Técnico Superior en Agencias de Viajes y Gestión de Eventos
+55;Hostelería y Turismo;Grado Superior;Técnico Superior en Dirección de Cocina
+56;Hostelería y Turismo;Grado Superior;Técnico Superior en Dirección de Servicios de Restauración
+57;Hostelería y Turismo;Grado Superior;Técnico Superior en Gestión de Alojamientos Turísticos
+58;Hostelería y Turismo;Grado Superior;Técnico Superior en Guía, Información y Asistencia Turísticas
+59;Imagen Personal;Grado Medio;Técnico en Estética y Belleza
+60;Imagen Personal;Grado Medio;Técnico en Peluquería y Cosmética Capilar
+61;Imagen Personal;Grado Superior;Técnico Superior en Asesoría de Imagen Personal y Corporativa
+62;Imagen Personal;Grado Superior;Técnico Superior en Estética Integral y Bienestar
+63;Imagen Personal;Grado Superior;Técnico Superior en Caracterización y Maquillaje Profesional
+64;Imagen Personal;Grado Superior;Técnico Superior en Termalismo y Spa
+65;Imagen y Sonido;Grado Medio;Técnico en Video Disc-Jockey y Sonido
+66;Imagen y Sonido;Grado Superior;Técnico Superior en Animaciones 3D, Juegos y Entornos Interactivos
+67;Imagen y Sonido;Grado Superior;Técnico Superior en Realización de Proyectos de Audiovisuales y Espectáculos
+68;Imagen y Sonido;Grado Superior;Técnico Superior en Sonido para Audiovisuales y Espectáculos
+69;Imagen y Sonido;Grado Superior;Técnico Superior en Iluminación, Captación y Tratamiento de Imagen
+70;Industrias Alimentarias;Grado Medio;Técnico en Aceites de Oliva y Vinos
+71;Industrias Alimentarias;Grado Medio;Técnico en Elaboración de Productos Alimenticios
+72;Industrias Alimentarias;Grado Medio;Técnico en Panadería, Repostería y Confitería
+73;Industrias Alimentarias;Grado Superior;Técnico Superior en Procesos y Calidad en la Industria Alimentaria
+74;Industrias Extractivas;Grado Medio;Técnico en Piedra Natural
+75;Industrias Extractivas;Grado Superior;Técnico Superior en Minería
+76;Informática y Comunicaciones;Grado Medio;Técnico en Sistemas Microinformáticos y Redes (SMR)
+77;Informática y Comunicaciones;Grado Superior;Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)
+78;Informática y Comunicaciones;Grado Superior;Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+79;Informática y Comunicaciones;Grado Superior;Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+80;Instalación y Mantenimiento;Grado Medio;Técnico en Instalaciones Frigoríficas y de Climatización
+81;Instalación y Mantenimiento;Grado Medio;Técnico en Instalaciones de Producción de Calor
+82;Instalación y Mantenimiento;Grado Medio;Técnico en Mantenimiento Electromecánico
+83;Instalación y Mantenimiento;Grado Superior;Técnico Superior en Desarrollo de Proyectos de Instalaciones Térmicas y de Fluidos
+84;Instalación y Mantenimiento;Grado Superior;Técnico Superior en Mantenimiento de Instalaciones Térmicas y de Fluidos
+85;Instalación y Mantenimiento;Grado Superior;Técnico Superior en Mantenimiento Mecatrónico
+86;Madera, Mueble y Corcho;Grado Medio;Técnico en Carpintería y Mueble
+87;Madera, Mueble y Corcho;Grado Medio;Técnico en Instalación y Amueblamiento
+88;Madera, Mueble y Corcho;Grado Superior;Técnico Superior en Diseño y Amueblamiento
+89;Marítimo-Pesquera;Grado Medio;Técnico en Mantenimiento y Control de la Maquinaria de Buques y Embarcaciones
+90;Marítimo-Pesquera;Grado Medio;Técnico en Navegación y Pesca de Litoral
+91;Marítimo-Pesquera;Grado Medio;Técnico en Operaciones Subacuáticas e Hiperbáricas
+92;Marítimo-Pesquera;Grado Medio;Técnico en Cultivos Acuícolas
+93;Marítimo-Pesquera;Grado Superior;Técnico Superior en Acuicultura
+94;Marítimo-Pesquera;Grado Superior;Técnico Superior en Organización del Mantenimiento de Maquinaria de Buques y Embarcaciones
+95;Marítimo-Pesquera;Grado Superior;Técnico Superior en Transporte Marítimo y Pesca de Altura
+96;Química;Grado Medio;Técnico en Operaciones de Laboratorio
+97;Química;Grado Medio;Técnico en Planta Química
+98;Química;Grado Superior;Técnico Superior en Fabricación de Productos Farmacéuticos, Biotecnológicos y Afines
+99;Química;Grado Superior;Técnico Superior en Laboratorio de Análisis y de Control de Calidad
+100;Química;Grado Superior;Técnico Superior en Química Industrial
+101;Sanidad;Grado Medio;Técnico en Farmacia y Parafarmacia
+102;Sanidad;Grado Medio;Técnico en Emergencias Sanitarias
+103;Sanidad;Grado Medio;Técnico en Cuidados Auxiliares de Enfermería (TCAE)
+104;Sanidad;Grado Superior;Técnico Superior en Anatomía Patológica y Citodiagnóstico
+105;Sanidad;Grado Superior;Técnico Superior en Audiología Protésica
+106;Sanidad;Grado Superior;Técnico Superior en Documentación y Administración Sanitarias
+107;Sanidad;Grado Superior;Técnico Superior en Higiene Bucodental
+108;Sanidad;Grado Superior;Técnico Superior en Imagen para el Diagnóstico y Medicina Nuclear
+109;Sanidad;Grado Superior;Técnico Superior en Laboratorio Clínico y Biomédico
+110;Sanidad;Grado Superior;Técnico Superior en Ortoprótesis y Productos de Apoyo
+111;Sanidad;Grado Superior;Técnico Superior en Prótesis Dentales
+112;Sanidad;Grado Superior;Técnico Superior en Radioterapia y Dosimetría
+113;Sanidad;Grado Superior;Técnico Superior en Sanidad Ambiental
+114;Seguridad y Medio Ambiente;Grado Medio;Técnico en Emergencias y Protección Civil
+115;Seguridad y Medio Ambiente;Grado Superior;Técnico Superior en Coordinación de Emergencias y Protección Civil
+116;Seguridad y Medio Ambiente;Grado Superior;Técnico Superior en Educación y Control Ambiental
+117;Servicios Socioculturales y a la Comunidad;Grado Medio;Técnico en Atención a Personas en Situación de Dependencia
+118;Servicios Socioculturales y a la Comunidad;Grado Superior;Técnico Superior en Animación Sociocultural y Turística
+119;Servicios Socioculturales y a la Comunidad;Grado Superior;Técnico Superior en Educación Infantil
+120;Servicios Socioculturales y a la Comunidad;Grado Superior;Técnico Superior en Integración Social
+121;Servicios Socioculturales y a la Comunidad;Grado Superior;Técnico Superior en Mediación Comunicativa
+122;Servicios Socioculturales y a la Comunidad;Grado Superior;Técnico Superior en Promoción de Igualdad de Género
+123;Textil, Confección y Piel;Grado Medio;Técnico en Calzado y Complementos de Moda
+124;Textil, Confección y Piel;Grado Medio;Técnico en Confección y Moda
+125;Textil, Confección y Piel;Grado Medio;Técnico en Fabricación y Ennoblecimiento Textil
+126;Textil, Confección y Piel;Grado Superior;Técnico Superior en Patronaje y Moda
+127;Textil, Confección y Piel;Grado Superior;Técnico Superior en Vestuario a Medida y de Espectáculos
+128;Transporte y Mantenimiento de Vehículos;Grado Medio;Técnico en Carrocería
+129;Transporte y Mantenimiento de Vehículos;Grado Medio;Técnico en Electromecánica de Maquinaria
+130;Transporte y Mantenimiento de Vehículos;Grado Medio;Técnico en Electromecánica de Vehículos Automóviles
+131;Transporte y Mantenimiento de Vehículos;Grado Medio;Técnico en Mantenimiento de Material Rodante Ferroviario
+132;Transporte y Mantenimiento de Vehículos;Grado Medio;Técnico en Mantenimiento de Embarcaciones de Recreo
+133;Transporte y Mantenimiento de Vehículos;Grado Superior;Técnico Superior en Automoción
+134;Transporte y Mantenimiento de Vehículos;Grado Superior;Técnico Superior en Mantenimiento de Sistemas Aeromecánicos de Aviones con Motor de Pistón / Turbina
+135;Transporte y Mantenimiento de Vehículos;Grado Superior;Técnico Superior en Mantenimiento de Sistemas de Aeronaves
+136;Vidrio y Cerámica;Grado Medio;Técnico en Fabricación de Productos Cerámicos
+137;Vidrio y Cerámica;Grado Superior;Técnico Superior en Desarrollo y Fabricación de Productos Cerámicos

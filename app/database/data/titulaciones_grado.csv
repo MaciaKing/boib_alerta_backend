@@ -1,0 +1,210 @@
+ID;familia_profesional;nivel;nombre_oficial
+1;Artes y Humanidades;Grado Universitario;Grado en Bellas Artes
+2;Artes y Humanidades;Grado Universitario;Grado en Diseño
+3;Artes y Humanidades;Grado Universitario;Grado en Filología Hispánica
+4;Artes y Humanidades;Grado Universitario;Grado en Estudios Ingleses
+5;Artes y Humanidades;Grado Universitario;Grado en Filosofía
+6;Artes y Humanidades;Grado Universitario;Grado en Historia
+7;Artes y Humanidades;Grado Universitario;Grado en Historia del Arte
+8;Artes y Humanidades;Grado Universitario;Grado en Geografía e Historia
+9;Artes y Humanidades;Grado Universitario;Grado en Humanidades
+10;Artes y Humanidades;Grado Universitario;Grado en Lenguas Modernas y sus Literaturas
+11;Artes y Humanidades;Grado Universitario;Grado en Traducción e Interpretación
+12;Artes y Humanidades;Grado Universitario;Grado en Conservación y Restauración del Patrimonio Cultural
+13;Artes y Humanidades;Grado Universitario;Grado en Arqueología
+14;Artes y Humanidades;Grado Universitario;Grado en Musicología
+15;Artes y Humanidades;Grado Universitario;Grado en Estudios Clásicos
+16;Ciencias;Grado Universitario;Grado en Biología
+17;Ciencias;Grado Universitario;Grado en Bioquímica
+18;Ciencias;Grado Universitario;Grado en Biotecnología
+19;Ciencias;Grado Universitario;Grado en Ciencias Ambientales
+20;Ciencias;Grado Universitario;Grado en Ciencias del Mar
+21;Ciencias;Grado Universitario;Grado en Física
+22;Ciencias;Grado Universitario;Grado en Geología
+23;Ciencias;Grado Universitario;Grado en Matemáticas
+24;Ciencias;Grado Universitario;Grado en Química
+25;Ciencias;Grado Universitario;Grado en Ciencia y Tecnología de los Alimentos
+26;Ciencias;Grado Universitario;Grado en Estadística
+27;Ciencias;Grado Universitario;Grado en Microbiología
+28;Ciencias de la Salud;Grado Universitario;Grado en Medicina
+29;Ciencias de la Salud;Grado Universitario;Grado en Enfermería
+30;Ciencias de la Salud;Grado Universitario;Grado en Farmacia
+31;Ciencias de la Salud;Grado Universitario;Grado en Fisioterapia
+32;Ciencias de la Salud;Grado Universitario;Grado en Odontología
+33;Ciencias de la Salud;Grado Universitario;Grado en Psicología
+34;Ciencias de la Salud;Grado Universitario;Grado en Veterinaria
+35;Ciencias de la Salud;Grado Universitario;Grado en Nutrición Humana y Dietética
+36;Ciencias de la Salud;Grado Universitario;Grado en Podología
+37;Ciencias de la Salud;Grado Universitario;Grado en Terapia Ocupacional
+38;Ciencias de la Salud;Grado Universitario;Grado en Logopedia
+39;Ciencias de la Salud;Grado Universitario;Grado en Óptica y Optometría
+40;Ciencias de la Salud;Grado Universitario;Grado en Ciencias de la Actividad Física y del Deporte
+41;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Administración y Dirección de Empresas (ADE)
+42;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Derecho
+43;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Economía
+44;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Educación Infantil
+45;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Educación Primaria
+46;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Educación Social
+47;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Pedagogía
+48;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Periodismo
+49;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Comunicación Audiovisual
+50;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Publicidad y Relaciones Públicas
+51;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Relaciones Internacionales
+52;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Trabajo Social
+53;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Sociología
+54;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Criminología
+55;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Turismo
+56;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Marketing
+57;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Ciencias Políticas y de la Administración
+58;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Relaciones Laborales y Recursos Humanos
+59;Ingeniería y Arquitectura;Grado Universitario;Grado en Arquitectura
+60;Ingeniería y Arquitectura;Grado Universitario;Grado en Fundamentos de la Arquitectura
+61;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Informática
+62;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería del Software
+63;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Computadores
+64;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Telecomunicaciones
+65;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Industrial
+66;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Mecánica
+67;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Eléctrica
+68;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Electrónica Industrial y Automática
+69;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Química
+70;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Civil
+71;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Aeroespacial
+72;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Biomédica
+73;Ingeniería y Arquitectura;Grado Universitario;Grado en Ciencia e Ingeniería de Datos
+74;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de la Energía
+75;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Mecatrónica
+76;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Agrícola
+77;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Forestal y del Medio Natural
+78;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Naval y Oceánica
+79;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Tecnologías Mineras
+80;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Multimedia
+101;Ciencias de la Salud;Grado Universitario;Grado en Medicina
+102;Ciencias de la Salud;Grado Universitario;Grado en Enfermería
+103;Ciencias de la Salud;Grado Universitario;Grado en Farmacia
+104;Ciencias de la Salud;Grado Universitario;Grado en Fisioterapia
+105;Ciencias de la Salud;Grado Universitario;Grado en Odontología
+106;Ciencias de la Salud;Grado Universitario;Grado en Psicología
+107;Ciencias de la Salud;Grado Universitario;Grado en Veterinaria
+108;Ciencias de la Salud;Grado Universitario;Grado en Nutrición Humana y Dietética
+109;Ciencias de la Salud;Grado Universitario;Grado en Podología
+110;Ciencias de la Salud;Grado Universitario;Grado en Terapia Ocupacional
+111;Ciencias de la Salud;Grado Universitario;Grado en Logopedia
+112;Ciencias de la Salud;Grado Universitario;Grado en Óptica y Optometría
+113;Ciencias de la Salud;Grado Universitario;Grado en Ciencias de la Actividad Física y del Deporte
+114;Ciencias de la Salud;Grado Universitario;Grado en Biomedicina
+115;Ciencias de la Salud;Grado Universitario;Grado en Biotecnología
+116;Ciencias de la Salud;Grado Universitario;Grado en Genética
+117;Ciencias de la Salud;Grado Universitario;Grado en Neurociencia
+118;Ciencias de la Salud;Grado Universitario;Grado en Humanidades Médicas
+119;Ciencias;Grado Universitario;Grado en Biología
+120;Ciencias;Grado Universitario;Grado en Bioquímica
+121;Ciencias;Grado Universitario;Grado en Ciencias Ambientales
+122;Ciencias;Grado Universitario;Grado en Ciencias del Mar
+123;Ciencias;Grado Universitario;Grado en Física
+124;Ciencias;Grado Universitario;Grado en Geología
+125;Ciencias;Grado Universitario;Grado en Matemáticas
+126;Ciencias;Grado Universitario;Grado en Química
+127;Ciencias;Grado Universitario;Grado en Ciencia y Tecnología de los Alimentos
+128;Ciencias;Grado Universitario;Grado en Estadística
+129;Ciencias;Grado Universitario;Grado en Microbiología
+130;Ciencias;Grado Universitario;Grado en Enología
+131;Ciencias;Grado Universitario;Grado en Biología Humana
+132;Ciencias;Grado Universitario;Grado en Nanociencia y Nanotecnología
+133;Ciencias;Grado Universitario;Grado en Ciencias Biomédicas
+201;Ingeniería y Arquitectura;Grado Universitario;Grado en Arquitectura
+202;Ingeniería y Arquitectura;Grado Universitario;Grado en Fundamentos de la Arquitectura
+203;Ingeniería y Arquitectura;Grado Universitario;Grado en Edificación
+204;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Informática
+205;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería del Software
+206;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Computadores
+207;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Telecomunicaciones
+208;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Sistemas de Telecomunicación
+209;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Telemática
+210;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Sonido e Imagen
+211;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Industrial
+212;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Mecánica
+213;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Eléctrica
+214;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Electrónica Industrial y Automática
+215;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Química
+216;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Civil
+217;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Obras Públicas
+218;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Aeroespacial
+219;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Biomédica
+220;Ingeniería y Arquitectura;Grado Universitario;Grado en Ciencia e Ingeniería de Datos
+221;Ingeniería y Arquitectura;Grado Universitario;Grado en Inteligencia Artificial
+222;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de la Energía
+223;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Mecatrónica
+224;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Agrícola
+225;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Forestal y del Medio Natural
+226;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Agroambiental
+227;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Naval y Oceánica
+228;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Tecnologías Mineras
+229;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Recursos Energéticos
+230;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Geológica
+231;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de Diseño Industrial y Desarrollo del Producto
+232;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería de la Organización Industrial
+233;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Robótica
+234;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Física
+235;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Matemática
+236;Ingeniería y Arquitectura;Grado Universitario;Grado en Ingeniería Multimedia
+237;Ingeniería y Arquitectura;Grado Universitario;Grado en Ciberseguridad
+301;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Administración y Dirección de Empresas (ADE)
+302;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Derecho
+303;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Economía
+304;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Finanzas y Contabilidad
+305;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Comercio
+306;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Negocios Internacionales / International Business
+307;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Educación Infantil
+308;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Educación Primaria
+309;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Educación Social
+310;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Pedagogía
+311;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Periodismo
+312;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Comunicación Audiovisual
+313;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Publicidad y Relaciones Públicas
+314;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Comunicación Digital
+315;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Relaciones Internacionales
+316;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Trabajo Social
+317;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Sociología
+318;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Criminología
+319;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Seguridad
+320;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Turismo
+321;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Gestión Hotelera y Turística
+322;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Marketing
+323;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Marketing e Investigación de Mercados
+324;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Ciencias Políticas y de la Administración
+325;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Relaciones Laborales y Recursos Humanos
+326;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Gastronomía y Artes Culinarias
+327;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Geografía y Ordenación del Territorio
+328;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Protocolo y Organización de Eventos
+329;Ciencias Sociales y Jurídicas;Grado Universitario;Grado en Gestión y Administración Pública
+401;Artes y Humanidades;Grado Universitario;Grado en Bellas Artes
+402;Artes y Humanidades;Grado Universitario;Grado en Diseño
+403;Artes y Humanidades;Grado Universitario;Grado en Diseño de Moda
+404;Artes y Humanidades;Grado Universitario;Grado en Diseño de Interiores
+405;Artes y Humanidades;Grado Universitario;Grado en Diseño Gráfico
+406;Artes y Humanidades;Grado Universitario;Grado en Filología Hispánica
+407;Artes y Humanidades;Grado Universitario;Grado en Estudios Ingleses
+408;Artes y Humanidades;Grado Universitario;Grado en Estudios Franceses
+409;Artes y Humanidades;Grado Universitario;Grado en Estudios Alemanes
+410;Artes y Humanidades;Grado Universitario;Grado en Estudios Árabes e Islámicos
+411;Artes y Humanidades;Grado Universitario;Grado en Estudios de Asia Oriental
+412;Artes y Humanidades;Grado Universitario;Grado en Filosofía
+413;Artes y Humanidades;Grado Universitario;Grado en Historia
+414;Artes y Humanidades;Grado Universitario;Grado en Historia del Arte
+415;Artes y Humanidades;Grado Universitario;Grado en Geografía e Historia
+416;Artes y Humanidades;Grado Universitario;Grado en Humanidades
+417;Artes y Humanidades;Grado Universitario;Grado en Lenguas Modernas y sus Literaturas
+418;Artes y Humanidades;Grado Universitario;Grado en Traducción e Interpretación
+419;Artes y Humanidades;Grado Universitario;Grado en Conservación y Restauración del Patrimonio Cultural
+420;Artes y Humanidades;Grado Universitario;Grado en Arqueología
+421;Artes y Humanidades;Grado Universitario;Grado en Musicología
+422;Artes y Humanidades;Grado Universitario;Grado en Artes Escénicas
+423;Artes y Humanidades;Grado Universitario;Grado en Estudios Clásicos
+424;Artes y Humanidades;Grado Universitario;Grado en Literatura Comparada
+425;Artes y Humanidades;Grado Universitario;Grado en Gestión Cultural
+426;Ciencias Sociales y Jurídicas;Grado Universitario;Doble Grado en Derecho y Administración y Dirección de Empresas (ADE)
+427;Ciencias Sociales y Jurídicas;Grado Universitario;Doble Grado en Derecho y Relaciones Internacionales
+428;Ciencias Sociales y Jurídicas;Grado Universitario;Doble Grado en Periodismo y Comunicación Audiovisual
+429;Ingeniería y Arquitectura;Grado Universitario;Doble Grado en Ingeniería Informática y Matemáticas
+430;Ciencias;Grado Universitario;Doble Grado en Física y Matemáticas
