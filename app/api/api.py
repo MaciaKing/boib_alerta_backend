@@ -9,8 +9,17 @@ from .security import get_current_user
 from .users import users
 from .education import education
 from .convocatoria import convocatoria
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(users)
 app.include_router(education)
