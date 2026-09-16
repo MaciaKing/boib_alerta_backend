@@ -24,7 +24,6 @@ def get_seccio_ii_url(last_pub_href):
     req = requests.get(full_url)
     soup = BeautifulSoup(req.text, 'html.parser')
 
-    # Buscamos el enlace a la Secció II de forma dinámica
     enlace_seccio_2 = soup.find(
         'a', text=re.compile(r'Secció II|Autoritats i personal', re.I)
     )
@@ -64,7 +63,6 @@ else:
     if titulo_objetivo:
         print(f"✅ Encontrado: {titulo_objetivo.get_text(strip=True)}")
 
-        # Coger del título para abajo (la lista ul.entitats)
         lista_ul = titulo_objetivo.find_next('ul', class_='entitats')
 
         if lista_ul:
@@ -81,19 +79,35 @@ else:
                         continue
                     organisme = org_tag.get_text(strip=True)
 
-                    # Extraer Descripción
+                    # Ámbito de la resolución
                     resolucion_li = li.find('ul', class_='resolucions')
                     if not resolucion_li:
                         continue
+
+                    # Extraer Descripción
                     text_descriptiu = resolucion_li.find('p').get_text(
                         strip=True
                     )
+
+                    # --- EXTRAER NÚMERO DE REGISTRO (codigo_boib) ---
+                    codigo_boib = None
+                    p_registre = resolucion_li.find('p', class_='registre')
+                    if p_registre:
+                        # Busca los dígitos inmediatamente posteriores a "Número de registre"
+                        match_reg = re.search(
+                            r'Número de registre\s*(\d+)',
+                            p_registre.get_text(),
+                            re.I,
+                        )
+                        if match_reg:
+                            codigo_boib = int(match_reg.group(1))
 
                     # Extraer Enlace HTML
                     html_link = li.select_one('a.html')
                     url_anuncio = html_link['href'] if html_link else None
 
                     print(f"Organismo: {organisme}")
+                    print(f"Código BOIB: {codigo_boib}")
                     print(f"Texto: {text_descriptiu}")
 
                     # --- GUARDADO EN BASE DE DATOS ---
@@ -108,18 +122,18 @@ else:
                     if organismo_db is None:
                         organismo_db = Organismo(nombre=organisme)
                         db.add(organismo_db)
-                        db.flush()  # Asigna un ID antes del commit
+                        db.flush()
 
                     # 2. Crear Convocatoria asociada
                     new_convocatoria = Convocatoria(
                         organismo_id=organismo_db.id,
                         descripcion=text_descriptiu,
                         url=url_anuncio,
+                        codigo_boib=codigo_boib,
                     )
                     db.add(new_convocatoria)
                     print("--> Registrado en BD correctamente\n")
 
-                # Guardar todos los cambios acumulados
                 db.commit()
 
             except Exception as e:

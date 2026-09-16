@@ -13,6 +13,10 @@ class Convocatoria(Base):
     id: Mapped[int] = mapped_column(
         primary_key=True
     )
+    
+    codigo_boib: Mapped[int] = mapped_column(
+        nullable=True
+    )
 
     descripcion: Mapped[str | None] = mapped_column(
         Text,
