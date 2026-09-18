@@ -10,8 +10,8 @@ services:
       - .:/app
     env_file:
       - .env
-    #command: "uvicorn app.api.api:app --host 0.0.0.0 --port 8000 --reload"
-    command: "tail -f /dev/null"
+    command: "uvicorn app.api.api:app --host 0.0.0.0 --port 8000 --reload"
+    #command: "tail -f /dev/null"
     restart: unless-stopped
 
   postgres:
@@ -22,6 +22,16 @@ services:
     ports:
       - "5432:5432"
     restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama_service
+    ports:
+      - "11434:11434"
+    environment:
+      - OLLAMA_NO_CLOUD=1
+    entrypoint: /bin/sh -c "ollama serve & sleep 5 && ollama pull llama3.2 && wait"
+    restart: always
 
 volumes:
   postgres_data:
